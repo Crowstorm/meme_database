@@ -15,8 +15,7 @@ class SearchBar extends React.Component{
                     };
 
     }
-
-
+    
     //Enter pressed
     keyPress = (event) =>{
         

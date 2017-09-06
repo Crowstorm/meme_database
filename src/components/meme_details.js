@@ -8,7 +8,7 @@ class MemeDetails extends React.Component{
     render(){
         return(
             <div style={{border:'5px solid red'}}>
-                {/* Dopoki rekord nie znaleziony
+                {/* Dopoki reird nie znaleziony
                 Begin the search to display meme details
                  */}
 
