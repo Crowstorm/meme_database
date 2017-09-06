@@ -11,9 +11,11 @@ class SearchBar extends React.Component{
         super(props);
 
         this.state = {term: '',
-                    search: ''};
+                    search: ''
+                    };
 
     }
+
 
     //Enter pressed
     keyPress = (event) =>{

@@ -17,7 +17,7 @@ class MemeDetails extends React.Component{
                   */}
 
                 {/* Jak rekord znaleziony wyswietl rekord z detalami */}
-                
+
                 {/* Zamiast 0 arrayNumber */}
                 {memes[0].name} <br />
                 {memes[0].description}
